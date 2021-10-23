@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/8xg3ownhdtj4m585?svg=true)](https://ci.appveyor.com/project/Yana-85/auto-api-ci)
